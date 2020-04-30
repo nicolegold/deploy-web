@@ -1,2 +1,5 @@
 # deploy-web
-deploy web tensorflowjs (Projeto Data Science do Zero by Qoda)
+deploy web tensorflowjs 
+
+Aprendendo a armazenar repositórios.
+Faz parte do curso "Projeto Data Science do Zero" by Qoda
